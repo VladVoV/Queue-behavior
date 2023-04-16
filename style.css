@@ -1,0 +1,11 @@
+.container__queue{
+    display: flex;
+    margin: 0 0 2vw 0;
+    height: 6vw;
+}
+.container__queue-item{
+    text-align: center;
+    margin: 0 0.5vw;
+    padding: 2.5vw 1vw;
+    background: #259696;
+}
